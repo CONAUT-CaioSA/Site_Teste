@@ -1,0 +1,27 @@
+body {
+    background: #333;
+    font: normal 18pt Arial;
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+div#Resultado {
+    font: bold 36pt Arial;
+    background: rgb(255, 196, 0);
+    color: #000;
+    text-align: center;
+}
+div#form {
+    margin:auto;
+    width:fit-content;
+    
+}
+input#txtName {
+    text-align: center;
+    font: normal 18pt Arial;
+}
+input#button {
+    font: normal 18pt Arial;
+    
+}
